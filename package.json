@@ -1,5 +1,4 @@
 {
-  "homepage": "https://thekaricook.github.io/React-Recipes/",
   "name": "reactrecipe",
   "version": "0.1.0",
   "private": true,
@@ -37,9 +36,3 @@
       "last 1 safari version"
     ]
   }
-  "scripts": {
-    +   "predeploy": "npm run build",
-    +   "deploy": "gh-pages -d build",
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-}
